@@ -83,10 +83,11 @@ body.before-load {
 	padding-top: 50vh;
 }
 #scroll-section-0 h1 {
+	font-family: 'Noto Serif TC', serif;
 	position: relative;
 	top: -10vh;
 	z-index: 5;
-	font-size: 5rem;
+	font-size: 6rem;
 	text-align: center;
 	color: black;
 }
